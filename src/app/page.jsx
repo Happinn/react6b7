@@ -1,5 +1,5 @@
 import Remote from './components/Remote'
-import Main from './components/main'
+import Main from './components/Main'
 
 
 export default function Home() {
